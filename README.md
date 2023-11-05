@@ -1,4 +1,4 @@
-# ColorChangeWebpage
+# COLOR CHANGE WEBPAGE
 
 Welcome to the Color-Changing Web Application project! This interactive web application allows users to change the background color of the webpage by entering their name and a color name. Let's dive into the project components to understand how it works.
 
