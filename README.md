@@ -1,4 +1,4 @@
-# colorChangeWebpage
+# ColorChangeWebpage
 
 Welcome to the Color-Changing Web Application project! This interactive web application allows users to change the background color of the webpage by entering their name and a color name. Let's dive into the project components to understand how it works.
 
@@ -55,6 +55,7 @@ The project utilizes a MySQL database named `color_database` with a table called
 ## WebPage Preview
 ![Screenshot 2023-11-05 093859](https://github.com/Saranya81/colorChangeWebpage/assets/124616598/90a55f90-5a18-4466-b376-033069b1baa0)
 ![Screenshot 2023-11-05 093922](https://github.com/Saranya81/colorChangeWebpage/assets/124616598/df82559b-5463-44f3-a4c8-2c15a3dd83a1)
+
 
 
 Feel free to explore, modify, and enhance this project according to your preferences. Happy coding! 🌈✨
