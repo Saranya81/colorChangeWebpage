@@ -1,2 +1,9 @@
-config.php
-uploads/
+# Ignore log files
+*.log
+
+# Ignore temporary files
+temp/
+
+# Ignore sensitive information (example: config files)
+config.ini
+secret_key.txt
